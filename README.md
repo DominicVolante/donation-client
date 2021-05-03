@@ -1,6 +1,10 @@
 # Donor Client
 
-### Routes
+## Link
+
+API repository: https://github.com/DominicVolante/Donor-API
+
+## Routes
 
 - POST /donors
 - GET /donors
@@ -24,7 +28,6 @@ This application is being developed is to collect and store information from pro
 
 ## Setup and Installation
 
-- Clone client repository here:
 - Run the client locally using a live-server
 
 - Clone this server repository
